@@ -1,0 +1,29 @@
+/* style.css */
+body{
+  background: rgb(240,247,245);
+  color: green;
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+}
+h1{
+  font-family: 'Oswald', sans-serif;
+  color: rgb(100,211,365);
+  font-weight: lighter;
+  font-size: 20px;
+}
+h2 {
+  font-family: 'Oswald', sans-serif;
+  color: pink;
+  font-weight: lighter;
+  font-size: 8px;
+}
+#title
+{font-size: 50px;}
+
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
